@@ -1,0 +1,4 @@
+Data/1k_digest_BC
+Data/1k_digest_DE
+Data/1k_digest_DFAD
+Data/1k_digest_EDA
